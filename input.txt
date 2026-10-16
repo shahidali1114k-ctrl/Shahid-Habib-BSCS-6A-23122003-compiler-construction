@@ -1,0 +1,8 @@
+start
+Let a;
+a = 3 * 4 + 2;
+show(a);
+show("Tiny Dog");
+if (a >= 4)
+show(a * a);
+end
